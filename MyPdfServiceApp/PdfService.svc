@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MyPdfServiceApp.PdfService" CodeBehind="PdfService.svc.cs" %>
